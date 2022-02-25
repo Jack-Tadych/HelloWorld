@@ -7,4 +7,4 @@ print(y)
 #sometimes
 #from other px
 #fromt the other
-print ("howdy")
+# fiirst stage, then check, the push
